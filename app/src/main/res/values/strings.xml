@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Instrument_battery</string>
+    <string name="Cassa_button">Cassa</string>
+    <string name="Rullante_button">Rullante</string>
+    <string name="Hi_hat_chiuso_button">Hi-Hat-chiuso</string>
+    <string name="Hi_hat_aperto_button">Hi-Hat-aperto</string>
+    <string name="Tom_basso_button">Tom-Basso</string>
+    <string name="Piatti_button">Piatti</string>
+    <string name="Tom_button">Tom</string>
+    <string name="Tom_alto_button">Tom_alto</string>
+
+</resources>
